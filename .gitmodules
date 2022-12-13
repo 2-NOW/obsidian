@@ -1,4 +1,4 @@
-[submodule "vault"]
-	path = vault
+[submodule "private"]
+	path = private
 	url = git@github.com:2-NOW/vault.git
 	branch = main

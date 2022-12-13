@@ -1,0 +1,1 @@
+<%* tp.file.create_new(tp.file.find_tfile("Today I Learned"),tp.date.now("YYYY-MM-DD", -0.3),true,app.vault.getAbstractFileByPath("TIL")) %>

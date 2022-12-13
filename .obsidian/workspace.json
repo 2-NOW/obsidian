@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "429f97105a979167",
+    "type": "split",
+    "children": [
+      {
+        "id": "76009529dbff39ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2466d2a1b0c0324b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "279d2f4e36095729",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcc3489768971d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc35e4b3158a548b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1dc5a49edead8baf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa921faf469640d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69c458a4e608e32e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "11ec65bc627595ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "628d36507976d55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e862c5eb639c6c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01038fef821a251e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2d57a96bcbf02f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e819abb9dc3938d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2466d2a1b0c0324b",
+  "lastOpenFiles": [
+    "개발/side/karabiner.md",
+    "개발/Obsidian.md",
+    "TIL/2022-12-13.md",
+    "할 일/2022-11-30.md",
+    "회고/2022-11-29.md",
+    "회고/2022-11-30.md",
+    "회고/2022-12-01.md",
+    "회고/2022-12-04.md",
+    "회고/2022-12-08.md",
+    "회고/2022-12-09.md"
+  ]
+}
